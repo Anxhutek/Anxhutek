@@ -1,36 +1,30 @@
-# 👋 Hi there, I'm Anxhu! (Anxhutek)
+# Hey, I'm Anxhu! 👋 
 
-### 🚀 B.Tech Student | Evolving Developer | Building with Code & Vibes
+### 🚀 Vibecoding my way through B.Tech @ ABES Engineering College 
 
-I am currently pursuing my **B.Tech** from **ABES Engineering College**. 
-
-Right now, I call myself a **"Vibecoder"**—I love leveraging AI coding tools to bring ambitious ideas to life rapidly, design backend structures, and deploy real-world projects. But I don't stop there. My goal is to understand the depth of every system I build, learn the core engineering principles step-by-step, and transition into a seasoned software engineer.
+Honestly? Right now, I'm a **Vibecoder**—I cook up full-stack projects using AI as my copilot, deploying real-world stuff on actual servers. But the plot twist? I'm actively leveling up to understand every single line of code under the hood. No copy-paste without understanding here. 🧠
 
 ---
 
-### 🛠️ What I'm Learning & Building With
-
-*   **Backend & Databases:** Node.js, Express, Redis (Caching & Sessions), MongoDB (Data Persistence)
-*   **Version Control & Deployment:** Git, GitHub, PM2, Linux VPS Hosting
-*   **Frontend Basics:** HTML5, CSS3, EJS Templates
-
----
-
-### 📈 Projects I'm Proud Of
-
-*   **[ShieldRoute](https://github.com/Anxhutek/shieldroute):** An enterprise-grade Link Protection & Anti-Bypass Proxy Gate using Redis + MongoDB to secure redirects against scrapers.
+## ⚡ Tech I'm Cooking With
+*   **Backend:** Node.js / Express (handling routes like a pro)
+*   **Caching/Db:** Redis (for sub-millisecond zoom-zoom ⚡) & MongoDB (for keeping data safe)
+*   **Vibe Tier:** Git, GitHub, PM2 (keeping apps alive 24/7 on a VPS), and EJS
 
 ---
 
-### 🎯 My Growth Mindset
-> "I might start by coding with vibes, but I am committed to mastering the mechanics behind it. Every bug fixed and every system deployed is a step closer to deep technical mastery."
+## 🛠️ Main Showcase Project
+*   **[ShieldRoute](https://github.com/Anxhutek/shieldroute):** An enterprise-grade Link Gate & Anti-Bypass Proxy. It blocks scraper bots and bypass extensions using a dual Redis + MongoDB validation system. Hosted live!
 
 ---
 
-### 📬 Connect with Me
+## 🎯 Current Quest
+> "Start with vibes, end with absolute mastery. Currently converting warning logs into lessons."
 
+---
+
+## 💬 Get in Touch
 *   **Email:** `akvtechmoy@gmail.com`
 
 ---
-
-*“The best way to predict the future is to build it.”* Let's connect and build something awesome!
+*Vibes are temporary, good system design is forever. Let's build!* 🚀
